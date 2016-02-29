@@ -6,4 +6,5 @@ android-fastxml-jackson-library
 *	import com.fasterxml.jackson.databind.ObjectMapper;
 
 jar包 from [http://repo1.maven.org/maven2/com/](http://repo1.maven.org/maven2/com/) 
+
 项目里的源码 from  [https://github.com/FasterXML](https://github.com/FasterXML)
